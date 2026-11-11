@@ -241,5 +241,3 @@
 | `images/08_c4_containers.png` | C4 Container | обязательно |
 | `images/09_uml_components.png` | UML components | доп. к п.4 |
 | `images/10_bpmn_updated.png` | BPMN обновлённый | обязательно |
-
-Обязательные пункты задания 4 отражены на рисунках и в пояснениях. Дополнительные диаграммы тоже обновлены под тот же словарь.
